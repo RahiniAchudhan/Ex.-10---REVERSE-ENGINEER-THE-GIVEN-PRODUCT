@@ -38,8 +38,8 @@
 ![Screenshot (306)](https://github.com/RahiniAchudhan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742838/4735c802-44cc-4d11-96a6-8799a69fe361)
 
 
-### Name:
-### Register Number:
+### Name: RAHINI.A
+### Register Number: 212223230165
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
