@@ -32,7 +32,10 @@
 
 ## Input:
 
+![WhatsApp Image 2024-04-22 at 14 20 45_45268710](https://github.com/RahiniAchudhan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742838/c0fc04cf-e16d-440d-8890-37af18b69bf9)
+
 ### Output:
+![Screenshot (306)](https://github.com/RahiniAchudhan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742838/4735c802-44cc-4d11-96a6-8799a69fe361)
 
 
 ### Name:
